@@ -1,4 +1,4 @@
-# Chap App
+# Chat App
 ## Description
 ✍ A chat app allows users to exchange real-time messages, fostering instant communication and connections, often supporting multimedia elements for a richer interaction experience. It's a convenient tool for staying connected in today's digital age.
 
