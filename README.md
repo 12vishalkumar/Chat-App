@@ -2,7 +2,7 @@
 ## Description
 ✍ A chat app allows users to exchange real-time messages, fostering instant communication and connections, often supporting multimedia elements for a richer interaction experience. It's a convenient tool for staying connected in today's digital age.
 
-### Click the Go Live button and see the live👉 [Go Live]()
+### Click the Go Live button and see the live👉 [Go Live](https://chat-app-lovely.netlify.app)
 
 ## Installation
 - Install the required dependencies using npm install.
