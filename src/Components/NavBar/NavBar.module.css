@@ -1,0 +1,28 @@
+/*----------------------------------- Navbar -------------------------*/
+.navBar{
+    display : flex;
+    background-color : #141414cc;
+    color : #fff;
+    justify-content : space-between;
+    border-radius: 5px;
+}
+
+.navBar div{
+    padding : 10px;
+}
+
+.title{
+    display : flex;
+}
+
+.title img{
+    margin-top : 10px;
+    width : 4vw;
+}
+
+.logo img{
+    height: 60px;
+    width: 60px;
+    margin-top: 5px;
+    margin-right: 5px;
+}

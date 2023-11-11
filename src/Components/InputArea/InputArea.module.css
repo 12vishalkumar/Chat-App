@@ -1,0 +1,30 @@
+/*----------------------------------- InputArea  -------------------------*/
+.inputArea {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.input {
+  margin-left: 5%;
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #777272c3;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #0d2cdd;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4bd80a;
+  color: #000;
+  border: 1px solid #000;
+}
